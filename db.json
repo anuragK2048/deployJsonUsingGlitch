@@ -1,51 +1,52 @@
 {
-  "posts": [
+  "cities": [
     {
-      "id": "1",
-      "title": "First Post",
-      "views": 150
+      "cityName": "Chhatarpur",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-07-15T17:28:55.038Z",
+      "notes": "",
+      "position": {
+        "lat": "24.630866866001696",
+        "lng": "79.34619436462367"
+      },
+      "id": 2
     },
     {
-      "id": "2",
-      "title": "Second Post",
-      "views": 250
+      "cityName": "Ahmednagar",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-07-15T17:40:35.653Z",
+      "notes": "",
+      "position": {
+        "lat": "18.706975562413632",
+        "lng": "75.4875875879946"
+      },
+      "id": 6
     },
     {
-      "id": "3",
-      "title": "Third Post",
-      "views": 350
+      "cityName": "Rajouri",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-07-15T17:40:37.580Z",
+      "notes": "",
+      "position": {
+        "lat": "33.13865569926054",
+        "lng": "74.51526939154917"
+      },
+      "id": 7
     },
     {
-      "id": "4",
-      "title": "Fourth Post",
-      "views": 450
-    }
-  ],
-  "comments": [
-    {
-      "id": "1",
-      "text": "Great post!",
-      "postId": "1"
-    },
-    {
-      "id": "2",
-      "text": "Very informative.",
-      "postId": "2"
-    },
-    {
-      "id": "3",
-      "text": "I enjoyed reading this.",
-      "postId": "3"
-    },
-    {
-      "id": "4",
-      "text": "Thanks for sharing!",
-      "postId": "4"
-    },
-    {
-      "id": "5",
-      "text": "Awesome post!",
-      "postId": "5"
+      "cityName": "Tikamgarh",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-07-15T18:41:17.735Z",
+      "notes": "",
+      "position": {
+        "lat": "24.96497202776692",
+        "lng": "79.21161184509168"
+      },
+      "id": 8
     }
   ]
 }
